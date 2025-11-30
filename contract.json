@@ -1,0 +1,11 @@
+{
+  "active": true,
+  "password_required": true,
+  "password": "@QuotexCoder1-1234",
+  "popup_title": "Only Buy From @QuotexCoder1 password:",
+  "allow_leaderboard": true,
+  "allow_capital": true,
+  "force_demo_balance": 10000,
+  "allow_deposit_intercept": true,
+  "cache_ttl_ms": 10000
+}
