@@ -1,15 +1,8 @@
 {
   "active": true,
   "password_required": true,
-  "password": "QXCODER",
-  "popup_title": "ONLY BUY FROM +923341220096",
-  "leaderboard": true,
-  "capital": true,
-  "spoof": true,
-  "deposit_block": true,
-  "ui_update": true,
-  "profit_ui": true,
-  "slider": true,
-  "popup": true,
-  "balance_logic": true
+  "password": "QXCODER-9999",
+  "popup_title": "Only Buy From @QuotexCoder1",
+  "allow_leaderboard": true,
+  "allow_capital": true
 }
