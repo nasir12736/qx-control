@@ -1,5 +1,5 @@
 {
-  "active": true,
+  "active": false,
   "password_required": true,
   "password": "QXCODER-9999",
   "popup_title": "Enter Activation Password",
