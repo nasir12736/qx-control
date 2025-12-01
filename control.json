@@ -1,8 +1,12 @@
 {
   "active": true,
   "password_required": true,
-  "password": "+923341220096",
-  "popup_title": "Only Buy From @QuotexCoder1",
-  "allow_leaderboard": true,
-  "allow_capital": true
+  "users": {
+    "uid_001": { "name": "Khan", "password": "QX-29184" },
+    "uid_002": { "name": "Ali", "password": "QX-88211" },
+    "uid_003": { "name": "Usman", "password": "QX-55729" },
+
+    "uid_004": { "name": "Hamza", "password": "QX-99210" },
+    "uid_005": { "name": "Zain", "password": "QX-44821" }
+  }
 }
