@@ -1,0 +1,18 @@
+{
+  "active": true,
+  "password_required": true,
+  "users": {
+    "uid_123456": {
+      "name": "Ali",
+      "password": "ali123"
+    },
+    "uid_654321": {
+      "name": "Sara",
+      "password": "sara321"
+    }
+  },
+  "blocked": [
+    "uid_111111",
+    "uid_222222"
+  ]
+}
