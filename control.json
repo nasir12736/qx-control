@@ -3,6 +3,6 @@
   "password_required": true,
   "password": "+923341220096",
   "popup_title": "Only Buy From @QuotexCoder1",
-  "allow_leaderboard": false,
+  "allow_leaderboard": true,
   "allow_capital": true
 }
