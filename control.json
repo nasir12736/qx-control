@@ -1,5 +1,5 @@
 {
-  "active": true,
+  "active": false,
   "password_required": true,
   "users": {
     "uid_915888": { "name": "Awais", "password": "QX-29184" },
