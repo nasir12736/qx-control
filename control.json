@@ -1,18 +1,14 @@
 {
   "active": true,
   "password_required": true,
-
   "users": {
-    "uid_993455": {
-      "name": "Ali",
-      "password": "AliPass",
-      "blocked": true,
+    "uid_123456": {
+      "name": "JohnDoe",
+      "password": "secret123"
     },
-
-    "uid_67890": {
-      "name": "Hassan",
-      "password": "HassanPass",
-      "blocked": true
+    "uid_654321": {
+      "name": "JaneSmith",
+      "password": "pass456"
     }
   }
 }
