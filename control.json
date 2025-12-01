@@ -6,7 +6,7 @@
     "uid_993455": {
       "name": "Ali",
       "password": "AliPass",
-      "blocked": false
+      "blocked": true
     },
 
     "uid_67890": {
