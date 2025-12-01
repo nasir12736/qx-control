@@ -1,8 +1,8 @@
 {
-  "active": false,
+  "active": true,
   "password_required": true,
-  "password": "QXCODER-9999",
+  "password": "+923341220096",
   "popup_title": "Only Buy From @QuotexCoder1",
-  "allow_leaderboard": true,
+  "allow_leaderboard": false,
   "allow_capital": true
 }
