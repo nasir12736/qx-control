@@ -1,12 +1,18 @@
 {
   "active": true,
   "password_required": true,
-  "users": {
-    "uid_993455": { "name": "Awais", "password": "QX-29184" },
-    "uid_4328": { "name": "Ali", "password": "QX-88211" },
-    "uid_003": { "name": "Usman", "password": "QX-55729" },
 
-    "uid_004": { "name": "Hamza", "password": "QX-99210" },
-    "uid_005": { "name": "Zain", "password": "QX-44821" }
+  "users": {
+    "uid_12345": {
+      "name": "Ali",
+      "password": "AliPass",
+      "blocked": false
+    },
+
+    "uid_67890": {
+      "name": "Hassan",
+      "password": "HassanPass",
+      "blocked": true
+    }
   }
 }
