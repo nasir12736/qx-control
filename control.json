@@ -3,7 +3,7 @@
   "password_required": true,
 
   "users": {
-    "uid_12345": {
+    "uid_993455": {
       "name": "Ali",
       "password": "AliPass",
       "blocked": false
