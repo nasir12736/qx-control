@@ -1,4 +1,7 @@
 {
-  "uid_123456": {"name":"Admin","password":"adminpass","blocked":false},
-  "uid_654321": {"name":"John","password":"1234","blocked":false}
+  "active": true,
+  "users": {
+    "uid_123456": { "name": "Janu", "password": "1234" }
+  },
+  "blocked": ["uid_999999"]
 }
