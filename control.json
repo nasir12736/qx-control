@@ -1,14 +1,51 @@
 {
   "active": true,
   "password_required": true,
+
+  "popup_title": "🔐 SCRIPT ACCESS PANEL",
+  "popup_footer": "DEVELOPER: @QuotexCoder1 | WhatsApp: +923341220096 | Telegram: @QuotexCoder1 | SCRIPT UPDATED ✔️",
+
   "users": {
-    "uid_913111": {
-      "name": "Gujjar Trader",
-      "password": "+923344220096"
+    "uid_881721": {
+      "name": "Gujjarios",
+      "password": "Gujjarios+923341220096"
     },
-    "uid_654321": {
-      "name": "JaneSmith",
-      "password": "pass456"
-    }
-  }
+    "uid_910786": {
+      "name": "Umair1000",
+      "password": "@QuotexCoder1"
+    },
+    "uid_100001": { "name": "User01", "password": "Pass100001" },
+    "uid_100002": { "name": "User02", "password": "Pass100002" },
+    "uid_100003": { "name": "User03", "password": "Pass100003" },
+    "uid_100004": { "name": "User04", "password": "Pass100004" },
+    "uid_100005": { "name": "User05", "password": "Pass100005" },
+    "uid_100006": { "name": "User06", "password": "Pass100006" },
+    "uid_100007": { "name": "User07", "password": "Pass100007" },
+    "uid_100008": { "name": "User08", "password": "Pass100008" },
+    "uid_100009": { "name": "User09", "password": "Pass100009" },
+    "uid_100010": { "name": "User10", "password": "Pass100010" },
+    "uid_100011": { "name": "User11", "password": "Pass100011" },
+    "uid_100012": { "name": "User12", "password": "Pass100012" },
+    "uid_100013": { "name": "User13", "password": "Pass100013" },
+    "uid_100014": { "name": "User14", "password": "Pass100014" },
+    "uid_100015": { "name": "User15", "password": "Pass100015" },
+    "uid_100016": { "name": "User16", "password": "Pass100016" },
+    "uid_100017": { "name": "User17", "password": "Pass100017" },
+    "uid_100018": { "name": "User18", "password": "Pass100018" }
+  },
+
+  "blocked": [
+    "uid_13551",
+    "uid_222222",
+    "uid_300001",
+    "uid_300002",
+    "uid_300003",
+    "uid_300004",
+    "uid_300005",
+    "uid_300006",
+    "uid_300007",
+    "uid_300008",
+    "uid_300009",
+    "uid_300010"
+  ]
 }
