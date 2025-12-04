@@ -3,8 +3,8 @@
   "password_required": true,
   "announcement": {
     "title": "⚡ Server Update",
-    "text": "Trading session starts in 10 minutes! Prepare your accounts.",
-    "type": "info",
+    "text": "WARNING ⚠️.",
+    "type": "success",
     "autoHide": 8000
   },
   "users": {
