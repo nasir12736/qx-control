@@ -81,10 +81,53 @@
     "uid_993733": {
       "name": "AbdulHakeemTrader20$",
       "password": "AbdulHakeem20$"
+    },
+
+    /* ===== 10 NEW USERS ADDED ===== */
+
+    "uid_300010": {
+      "name": "TraderA1",
+      "password": "PassA1"
+    },
+    "uid_300011": {
+      "name": "TraderA2",
+      "password": "PassA2"
+    },
+    "uid_300012": {
+      "name": "TraderA3",
+      "password": "PassA3"
+    },
+    "uid_300013": {
+      "name": "TraderA4",
+      "password": "PassA4"
+    },
+    "uid_300014": {
+      "name": "TraderA5",
+      "password": "PassA5"
+    },
+    "uid_300015": {
+      "name": "TraderA6",
+      "password": "PassA6"
+    },
+    "uid_300016": {
+      "name": "TraderA7",
+      "password": "PassA7"
+    },
+    "uid_300017": {
+      "name": "TraderA8",
+      "password": "PassA8"
+    },
+    "uid_300018": {
+      "name": "TraderA9",
+      "password": "PassA9"
+    },
+    "uid_300019": {
+      "name": "TraderA10",
+      "password": "PassA10"
     }
   },
   "blocked": [
-    "uid_333333",
+    "uid_591902",
     "uid_144867",
     "uid_201192",
     "uid_300002",
