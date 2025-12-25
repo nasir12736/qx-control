@@ -2,7 +2,7 @@
   "active": true,
   "expiry_days": 20,
   "users": {
-    "UID001": { "name": "User1",  "password": "PASS001", "max_devices": 1, "devices": [], "suspended": false },
+    "UID001": { "name": "User1",  "password": "PASS001", "max_devices": 1, "devices": [], "suspended": true },
     "UID002": { "name": "User2",  "password": "PASS002", "max_devices": 1, "devices": [], "suspended": false },
     "UID003": { "name": "User3",  "password": "PASS003", "max_devices": 1, "devices": [], "suspended": false },
     "UID004": { "name": "User4",  "password": "PASS004", "max_devices": 1, "devices": [], "suspended": false },
