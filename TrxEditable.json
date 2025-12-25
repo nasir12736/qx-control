@@ -1,23 +1,53 @@
 {
   "active": true,
+
   "password_required": true,
 
   "blocked": [
-    "uid_111111",
-    "uid_222222",
-    "uid_333333"
+    "uid_900001",
+    "uid_900002"
   ],
 
   "users": {
-    "uid_444444": {
-      "name": "Ali",
-      "password": "ali123",
-      "max_devices": 1
+    "uid_106380": {
+      "name": "User01",
+      "password": "pass01"
     },
-    "uid_555555": {
-      "name": "Usman",
-      "password": "usman123",
-      "max_devices": 1
+    "uid_100002": {
+      "name": "User02",
+      "password": "pass02"
+    },
+    "uid_100003": {
+      "name": "User03",
+      "password": "pass03"
+    },
+    "uid_100004": {
+      "name": "User04",
+      "password": "pass04"
+    },
+    "uid_100005": {
+      "name": "User05",
+      "password": "pass05"
+    },
+    "uid_100006": {
+      "name": "User06",
+      "password": "pass06"
+    },
+    "uid_100007": {
+      "name": "User07",
+      "password": "pass07"
+    },
+    "uid_100008": {
+      "name": "User08",
+      "password": "pass08"
+    },
+    "uid_100009": {
+      "name": "User09",
+      "password": "pass09"
+    },
+    "uid_100010": {
+      "name": "User10",
+      "password": "pass10"
     }
   }
 }
