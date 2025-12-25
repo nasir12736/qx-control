@@ -2,7 +2,7 @@
   "active": true,
   "expiry_days": 20,
   "users": {
-    "UID-AB12CD": {
+    "uid_350326": {
       "name": "Ali",
       "password": "ALI@123",
       "approved": true,
