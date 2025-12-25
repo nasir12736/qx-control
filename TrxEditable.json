@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "expiry_days": 20,
+  "users": {
+    "UID001": { "name": "User1",  "password": "PASS001", "max_devices": 1, "devices": [], "suspended": false },
+    "UID002": { "name": "User2",  "password": "PASS002", "max_devices": 1, "devices": [], "suspended": false },
+    "UID003": { "name": "User3",  "password": "PASS003", "max_devices": 1, "devices": [], "suspended": false },
+    "UID004": { "name": "User4",  "password": "PASS004", "max_devices": 1, "devices": [], "suspended": false },
+    "UID005": { "name": "User5",  "password": "PASS005", "max_devices": 1, "devices": [], "suspended": false },
+
+    "UID006": { "name": "User6",  "password": "PASS006", "max_devices": 1, "devices": [], "suspended": false },
+    "UID007": { "name": "User7",  "password": "PASS007", "max_devices": 1, "devices": [], "suspended": false },
+    "UID008": { "name": "User8",  "password": "PASS008", "max_devices": 1, "devices": [], "suspended": false },
+    "UID009": { "name": "User9",  "password": "PASS009", "max_devices": 1, "devices": [], "suspended": false },
+    "UID010": { "name": "User10", "password": "PASS010", "max_devices": 1, "devices": [], "suspended": false },
+
+    "UID011": { "name": "User11", "password": "PASS011", "max_devices": 1, "devices": [], "suspended": false },
+    "UID012": { "name": "User12", "password": "PASS012", "max_devices": 1, "devices": [], "suspended": false },
+    "UID013": { "name": "User13", "password": "PASS013", "max_devices": 1, "devices": [], "suspended": false },
+    "UID014": { "name": "User14", "password": "PASS014", "max_devices": 1, "devices": [], "suspended": false },
+    "UID015": { "name": "User15", "password": "PASS015", "max_devices": 1, "devices": [], "suspended": false },
+
+    "UID016": { "name": "User16", "password": "PASS016", "max_devices": 1, "devices": [], "suspended": false },
+    "UID017": { "name": "User17", "password": "PASS017", "max_devices": 1, "devices": [], "suspended": false },
+    "UID018": { "name": "User18", "password": "PASS018", "max_devices": 1, "devices": [], "suspended": false },
+    "UID019": { "name": "User19", "password": "PASS019", "max_devices": 1, "devices": [], "suspended": false },
+    "UID020": { "name": "User20", "password": "PASS020", "max_devices": 1, "devices": [], "suspended": false }
+  }
+}
