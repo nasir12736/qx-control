@@ -4,10 +4,10 @@
   "expiry_days": 10,
   "blocked": [],
   "users": {
-    "uid_123456": {
+    "uid_350326": {
       "name": "Ali",
       "password": "Ali@123",
-      "approved": true,
+      "approved": false,
       "max_devices": 1,
       "devices": [],
       "suspended": false
