@@ -1,24 +1,23 @@
 {
   "active": true,
   "password_required": true,
-  "expiry_days": 10,
-  "blocked": [],
+
+  "blocked": [
+    "uid_111111",
+    "uid_222222",
+    "uid_333333"
+  ],
+
   "users": {
-    "uid_502810": {
-      "name": "test",
-      "password": "Ali@123",
-      "approved": true,
-      "max_devices": 1,
-      "devices": [],
-      "suspended": true
+    "uid_444444": {
+      "name": "Ali",
+      "password": "ali123",
+      "max_devices": 1
     },
-    "uid_654321": {
-      "name": "Sara",
-      "password": "Sara@456",
-      "approved": false,
-      "max_devices": 1,
-      "devices": [],
-      "suspended": false
+    "uid_555555": {
+      "name": "Usman",
+      "password": "usman123",
+      "max_devices": 1
     }
   }
 }
