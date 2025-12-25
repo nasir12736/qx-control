@@ -2,7 +2,7 @@
   "active": true,
   "password_required": true,
   "expiry_days": 10,
-  "blocked": [],
+  "blocked": ["uid_502810"],
   "users": {
     "uid_502810": {
       "name": "test",
