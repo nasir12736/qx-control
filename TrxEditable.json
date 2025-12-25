@@ -1,14 +1,24 @@
 {
   "active": true,
-  "expiry_days": 20,
+  "password_required": true,
+  "expiry_days": 10,
+  "blocked": [],
   "users": {
-    "uid_350326": {
+    "uid_123456": {
       "name": "Ali",
-      "password": "ALI@123",
+      "password": "Ali@123",
       "approved": true,
       "max_devices": 1,
       "devices": [],
-      "suspended": true
+      "suspended": false
+    },
+    "uid_654321": {
+      "name": "Sara",
+      "password": "Sara@456",
+      "approved": false,
+      "max_devices": 1,
+      "devices": [],
+      "suspended": false
     }
   }
 }
