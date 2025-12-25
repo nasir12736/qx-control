@@ -5,7 +5,7 @@
   "blocked": [],
   "users": {
     "uid_502810": {
-      "name": "Ali",
+      "name": "test",
       "password": "Ali@123",
       "approved": true,
       "max_devices": 1,
