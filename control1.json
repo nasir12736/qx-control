@@ -2,126 +2,56 @@
   "active": true,
   "password_required": true,
   "users": {
-    "uid_624618": {
-      "name": "AzharAlilaptop8k+4.5k",
-      "password": "AzharAli8k+4.5k"
-    },
-    "uid_198773": {
-      "name": "Umair1000",
-      "password": "@QuotexCoder1"
-    },
-    "uid_148951": {
-      "name": "Malik30625Trader",
-      "password": "Malik+923341220096"
-    },
-    "uid_507825": {
-      "name": "HussainTrader10$",
-      "password": "HussainTrader10$"
-    },
-    "uid_135801": {
-      "name": "@shahsawaralikhan",
-      "password": "SkTrader+923341220096"
-    },
-    "uid_670503": {
-      "name": "KHANTRADERMALIK1",
-      "password": "Khan4000"
-    },
-    "uid_848612": {
-      "name": "EarnWithSalman25$",
-      "password": "EARNWITHSALMAN+923341220096"
-    },
-    "uid_556024": {
-      "name": "KHANTRADERMALIK2",
-      "password": "KhanTrader2"
-    },
-    "uid_591902": {
-      "name": "SaifullahGujjar10$",
-      "password": "SaifGujjar+923341220096"
-    },
-    "uid_666101": {
-      "name": "ShezadMehar8k",
-      "password": "ShezadMehar+923341220096"
-    },
-    "uid_401246": {
-      "name": "ShezadMehar8kAndroid",
-      "password": "Pass1"
-    },
-    "uid_835417": {
-      "name": "ShoaibSycoTrder30$",
-      "password": "Pass100010"
-    },
-    "uid_537776": {
-      "name": "DubaiLegendTrader5k",
-      "password": "DubaixTrader"
-    },
-    "uid_438822": {
-      "name": "KhanAtif",
-      "password": "Pass100012"
-    },
-    "uid_913308": {
-      "name": "AwaisTrader30",
-      "password": "Pass100013"
-    },
-    "uid_348217": {
-      "name": "YashSirilankan40$",
-      "password": "Pass100014"
-    },
-    "uid_697224": {
-      "name": "AzharAli8k",
-      "password": "Azhar+923341220096"
-    },
-    "uid_687100": {
-      "name": "ProfessorTrader8k",
-      "password": "Professor+923341220096"
-    },
-    "uid_380305": {
-      "name": "MustafaNannahTrader20$",
-      "password": "NannahTrader20$android"
-    },
-    "uid_993733": {
-      "name": "AbdulHakeemTrader20$",
-      "password": "AbdulHakeem20$"
-    },
-    "uid_424537": {
-      "name": "HulkTrader30$",
-      "password": "PassHulkTrader30$"
-    },
-    "uid_999824": {
-      "name": "MyPc",
-      "password": "pass01"
-    },
-    "uid_688780": {
-      "name": "MyAndroid",
-      "password": "PassA3"
-    },
-    "uid_785194": {
-      "name": "MustafaNannahTraderPc",
-      "password": "PassA3"
-    },
-    "uid_892729": {
-      "name": "ShazaibTraderios+android+pc50$",
-      "password": "50$ShzaibTraderios"
-    },
-    "uid_803627": {
-      "name": "ShazaibTraderandroid50$",
-      "password": "ShazaibTraderAbdrioid"
-    },
-    "uid_906907": {
-      "name": "AhmarCodingLaptop4k",
-      "password": "AhmarLaptop"
-    },
-    "uid_332164": {
-      "name": "Ahmadrajpootios-Tiktok",
-      "password": "iosTiktokAccountgive"
-    },
-    "uid_729409": {
-      "name": "AftabTrader2kSamsungultra",
-      "password": "2kSamsung"
-    },
-    "uid_398490": {
-      "name": "sktraderShahsawar2",
-      "password": "PassA10"
-    }
+    "uid_624618": { "name": "AzharAlilaptop8k+4.5k", "password": "AzharAli8k+4.5k" },
+    "uid_198773": { "name": "Umair1000", "password": "@QuotexCoder1" },
+    "uid_148951": { "name": "Malik30625Trader", "password": "Malik+923341220096" },
+    "uid_507825": { "name": "HussainTrader10$", "password": "HussainTrader10$" },
+    "uid_135801": { "name": "@shahsawaralikhan", "password": "SkTrader+923341220096" },
+    "uid_670503": { "name": "KHANTRADERMALIK1", "password": "Khan4000" },
+    "uid_848612": { "name": "EarnWithSalman25$", "password": "EARNWITHSALMAN+923341220096" },
+    "uid_556024": { "name": "KHANTRADERMALIK2", "password": "KhanTrader2" },
+    "uid_591902": { "name": "SaifullahGujjar10$", "password": "SaifGujjar+923341220096" },
+    "uid_666101": { "name": "ShezadMehar8k", "password": "ShezadMehar+923341220096" },
+    "uid_401246": { "name": "ShezadMehar8kAndroid", "password": "Pass1" },
+    "uid_835417": { "name": "ShoaibSycoTrder30$", "password": "Pass100010" },
+    "uid_537776": { "name": "DubaiLegendTrader5k", "password": "DubaixTrader" },
+    "uid_438822": { "name": "KhanAtif", "password": "Pass100012" },
+    "uid_913308": { "name": "AwaisTrader30", "password": "Pass100013" },
+    "uid_348217": { "name": "YashSirilankan40$", "password": "Pass100014" },
+    "uid_697224": { "name": "AzharAli8k", "password": "Azhar+923341220096" },
+    "uid_687100": { "name": "ProfessorTrader8k", "password": "Professor+923341220096" },
+    "uid_380305": { "name": "MustafaNannahTrader20$", "password": "NannahTrader20$android" },
+    "uid_993733": { "name": "AbdulHakeemTrader20$", "password": "AbdulHakeem20$" },
+    "uid_424537": { "name": "HulkTrader30$", "password": "PassHulkTrader30$" },
+    "uid_999824": { "name": "MyPc", "password": "pass01" },
+    "uid_688780": { "name": "MyAndroid", "password": "PassA3" },
+    "uid_785194": { "name": "MustafaNannahTraderPc", "password": "PassA3" },
+    "uid_892729": { "name": "ShazaibTraderios+android+pc50$", "password": "50$ShzaibTraderios" },
+    "uid_803627": { "name": "ShazaibTraderandroid50$", "password": "ShazaibTraderAbdrioid" },
+    "uid_906907": { "name": "AhmarCodingLaptop4k", "password": "AhmarLaptop" },
+    "uid_332164": { "name": "Ahmadrajpootios-Tiktok", "password": "iosTiktokAccountgive" },
+    "uid_729409": { "name": "AftabTrader2kSamsungultra", "password": "2kSamsung" },
+    "uid_398490": { "name": "sktraderShahsawar2", "password": "PassA10" },
+    "uid_678747": { "name": "SajjuTrader20$", "password": "SajjuTrader20$" },
+    "uid_910002": { "name": "UsmanTraderLaptop3k", "password": "Usman3kLaptop" },
+    "uid_910003": { "name": "BilalQuotexPc", "password": "BilalPcTrader" },
+    "uid_910004": { "name": "HamzaTrader20$", "password": "Hamza20$" },
+    "uid_910005": { "name": "FahadAndroidTrader", "password": "FahadAndroid" },
+    "uid_910006": { "name": "ZeeshanScalper25$", "password": "Zeeshan25$" },
+    "uid_910007": { "name": "ImranTraderPc", "password": "ImranPc" },
+    "uid_910008": { "name": "NomanBinary10$", "password": "Noman10$" },
+    "uid_910009": { "name": "RizwanTraderAndroid", "password": "RizwanAndroid" },
+    "uid_910010": { "name": "AhsanTraderLaptop", "password": "AhsanLaptop" },
+    "uid_910011": { "name": "WaqasQuotex40$", "password": "Waqas40$" },
+    "uid_910012": { "name": "FarhanTraderPc5k", "password": "Farhan5kPc" },
+    "uid_910013": { "name": "ShahbazTraderAndroid", "password": "ShahbazAndroid" },
+    "uid_910014": { "name": "DanishTraderIOS", "password": "DanishIOS" },
+    "uid_910015": { "name": "AsadScalper15$", "password": "Asad15$" },
+    "uid_910016": { "name": "KashifTraderPc", "password": "KashifPc" },
+    "uid_910017": { "name": "SalmanTraderAndroid", "password": "SalmanAndroid" },
+    "uid_910018": { "name": "ArslanTrader30$", "password": "Arslan30$" },
+    "uid_910019": { "name": "TalhaQuotexPc", "password": "TalhaPc" },
+    "uid_910020": { "name": "RehanTraderLaptop6k", "password": "Rehan6kLaptop" }
   },
   "blocked": [
     "uid_423733",
