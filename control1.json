@@ -51,7 +51,27 @@
     "uid_143382": { "name": "MalikTrader10$", "password": "MalikTraderAndroid10$" },
     "uid_862047": { "name": "KhanTrader10k", "password": "KhanTrader10k" },
     "uid_763578": { "name": "ReemyTrader15$", "password": "ReemyTraderRemaining15$-5Feb" },
-    "uid_356639": { "name": "Mrdoctor-ZA15$", "password": "Mrdoctor15$-ZA" }
+    "uid_990001": { "name": "NewTrader1", "password": "Pass990001" },
+    "uid_990002": { "name": "NewTrader2", "password": "Pass990002" },
+    "uid_990003": { "name": "NewTrader3", "password": "Pass990003" },
+    "uid_990004": { "name": "NewTrader4", "password": "Pass990004" },
+    "uid_990005": { "name": "NewTrader5", "password": "Pass990005" },
+    "uid_990006": { "name": "NewTrader6", "password": "Pass990006" },
+    "uid_990007": { "name": "NewTrader7", "password": "Pass990007" },
+    "uid_990008": { "name": "NewTrader8", "password": "Pass990008" },
+    "uid_990009": { "name": "NewTrader9", "password": "Pass990009" },
+    "uid_990010": { "name": "NewTrader10", "password": "Pass990010" },
+
+    "uid_990011": { "name": "NewTrader11", "password": "Pass990011" },
+    "uid_990012": { "name": "NewTrader12", "password": "Pass990012" },
+    "uid_990013": { "name": "NewTrader13", "password": "Pass990013" },
+    "uid_990014": { "name": "NewTrader14", "password": "Pass990014" },
+    "uid_990015": { "name": "NewTrader15", "password": "Pass990015" },
+    "uid_990016": { "name": "NewTrader16", "password": "Pass990016" },
+    "uid_990017": { "name": "NewTrader17", "password": "Pass990017" },
+    "uid_990018": { "name": "NewTrader18", "password": "Pass990018" },
+    "uid_990019": { "name": "NewTrader19", "password": "Pass990019" },
+    "uid_990020": { "name": "NewTrader20", "password": "Pass990020" }
   },
   "blocked": [
     "uid_423733",
