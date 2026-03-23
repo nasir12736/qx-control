@@ -87,12 +87,12 @@
     "uid_920017": { "name": "NoumanForexPc", "password": "NoumanForexPc" },
     "uid_920018": { "name": "BasitTraderAndroid", "password": "BasitTraderAndroid" },
     "uid_920019": { "name": "DanishOption15$", "password": "DanishOption15$" },
-    "uid_920020": { "name": "FaizanBinary5k", "password": "FaizanBinary5k" }
+    "uid_423733": { "name": "Marwat10k", "password": "FaizanBinary5k" }
 
   },
 
   "blocked": [
-    "uid_423733",
+    "uid_999999",
     "uid_400283",
     "uid_825898",
     "uid_891049",
