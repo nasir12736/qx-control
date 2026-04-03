@@ -68,6 +68,8 @@
     "uid_364163": { "name": "KhizarRemaining15$", "password": "Pass990004" },
     "uid_420010": { "name": "PcMuqaddas8k", "password": "Pc8k" },
 
+    {
+  "users": {
     "uid_789925": { "name": "1:AleTrader15$", "password": "AleeTrader15$" },
     "uid_691777": { "name": "2:AlphaTrader6k", "password": "AleTraderCstmer" },
     "uid_503181": { "name": "3:Md-Midul4.5k", "password": "AleTraderCstmer" },
@@ -89,8 +91,18 @@
     "uid_866305": { "name": "SadiqLaptop-R-2.5k", "password": "3:PcSade" },
     "uid_942423": { "name": "Sadiq2Andr-R2.5k", "password": "1:Android2Sade" },
     "uid_928435": { "name": "TourryTrader8.5k", "password": "03062583186$" },
-    "uid_997717": { "name": "SadiqTelegramSadeAndriod20$", "password": "2:20$pc+andr+android" }
+    "uid_997717": { "name": "SadiqTelegramSadeAndriod20$", "password": "2:20$pc+andr+android" },
 
+    "uid_432794": { "name": "4:Trader15$", "password": "AleCustomer15$" },
+    "uid_110002": { "name": "TraderNew2", "password": "Pass2$" },
+    "uid_110003": { "name": "TraderNew3", "password": "Pass3$" },
+    "uid_110004": { "name": "TraderNew4", "password": "Pass4$" },
+    "uid_110005": { "name": "TraderNew5", "password": "Pass5$" },
+    "uid_110006": { "name": "TraderNew6", "password": "Pass6$" },
+    "uid_110007": { "name": "TraderNew7", "password": "Pass7$" },
+    "uid_110008": { "name": "TraderNew8", "password": "Pass8$" },
+    "uid_110009": { "name": "TraderNew9", "password": "Pass9$" },
+    "uid_110010": { "name": "TraderNew10", "password": "Pass10$" }
   },
 
   "blocked": [
