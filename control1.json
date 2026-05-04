@@ -90,7 +90,7 @@
     "uid_725890": { "name": "EhtishamPc2", "password": "Pass9$" },
     "uid_768098": { "name": "DawoodTrader", "password": "And8kpkr" },
     "uid_343377": { "name": "DawoodTraderPc", "password": "Pc8kpkrr" },
-    "uid_853972": { "name": "MalikTraderPc306", "password": "Punjabi306" }
+    "uid_940326": { "name": "MalikTraderPc306", "password": "Punjabi306" }
   },
 
   "blocked": [
@@ -103,7 +103,7 @@
     "uid_591902",
     "uid_425966",
     "uid_663357",
-    "uid_000000",
+    "uid_853972",
     "uid_000000",
     "uid_000000",
     "uid_000000",
