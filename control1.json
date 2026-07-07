@@ -417,6 +417,10 @@
     "uid_867942": {
       "name": "MySamsung",
       "password": "MySamsung"
+    },
+    "uid_00000": {
+      "name": "testing00",
+      "password": "Testing 00"
     }
   },
   "blocked": [
