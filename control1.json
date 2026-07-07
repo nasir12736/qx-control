@@ -3,8 +3,8 @@
   "password_required": true,
   "users": {
     "uid_000000": {
-      "name": "2-SyedTraderPc2k",
-      "password": "2kPc"
+      "name": "MyAndroidpixel",
+      "password": "PassA3"
     },
     "uid_664786": {
       "name": "SaifGujjarPc",
@@ -80,10 +80,6 @@
     },
     "uid_478334": {
       "name": "MyAndroidsamsung",
-      "password": "PassA3"
-    },
-    "uid_000000": {
-      "name": "MyAndroidpixel",
       "password": "PassA3"
     },
     "uid_295275": {
@@ -417,6 +413,10 @@
     "uid_123456": {
       "name": "TestTrader",
       "password": "TestPass123"
+    },
+    "uid_uid_867942": {
+      "name": "MySamsung",
+      "password": "MySamsung"
     }
   },
   "blocked": [
