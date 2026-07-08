@@ -429,6 +429,10 @@
     "uid_00000": {
       "name": "testing00",
       "password": "Testing 00"
+    },
+    "uid_702036": {
+      "name": "Usama-MkTrader-2k",
+      "password": "Usama-Refrence-2k"
     }
   },
   "blocked": [
