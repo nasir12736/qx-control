@@ -2,6 +2,10 @@
   "active": true,
   "password_required": true,
   "users": {
+    "90000": {
+      "name": "Test",
+      "password": "Test"
+    },
     "890457": {
       "name": "Test",
       "password": "Test"
