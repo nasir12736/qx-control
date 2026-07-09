@@ -2,10 +2,6 @@
   "active": true,
   "password_required": true,
   "users": {
-    "uid_890457": {
-      "name": "Test",
-      "password": "Test"
-    },
     "uid_000000": {
       "name": "MyAndroidpixel",
       "password": "PassA3"
