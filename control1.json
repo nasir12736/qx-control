@@ -2,10 +2,6 @@
   "active": true,
   "password_required": true,
   "users": {
-    "uid_000000": {
-      "name": "MyAndroidpixel",
-      "password": "PassA3"
-    },
     "uid_664786": {
       "name": "SaifGujjarPc",
       "password": "@QuotexCoder1"
