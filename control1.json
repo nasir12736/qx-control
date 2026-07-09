@@ -2,10 +2,6 @@
   "active": true,
   "password_required": true,
   "users": {
-    "uid_90000": {
-      "name": "Test",
-      "password": "Test"
-    },
     "uid_890457": {
       "name": "Test",
       "password": "Test"
