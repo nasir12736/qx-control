@@ -1,6 +1,6 @@
 {
-  "active": true,
-  "password_required": false,
+  "active": false,
+  "password_required": true,
   "users": {
     "uid_664786": {
       "name": "SaifGujjarPc",
